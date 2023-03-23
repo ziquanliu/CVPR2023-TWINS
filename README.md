@@ -1,6 +1,6 @@
 # CVPR2023-TWINS
 
-Official code for "[TWINS: A Fine-Tuning Framework for Improved Transferability of Adversarial Robustness and Generalization](https://placeholder)", CVPR 2023
+Official code for "[TWINS: A Fine-Tuning Framework for Improved Transferability of Adversarial Robustness and Generalization](https://arxiv.org/abs/2303.11135v1)", CVPR 2023
 
 ## Requirement
 PyTorch >= 1.9.0
