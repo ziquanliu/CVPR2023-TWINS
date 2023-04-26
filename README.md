@@ -7,7 +7,7 @@ PyTorch >= 1.9.0
 
 
 ## Description
-The AT_cifar and AT_high_res_data are the baseline AT for CIFAR10/100 and high-resolution image data (Caltech, CUB, Stanford-Dogs). The proposed method is in TWINS_cifar and TWINS_high_res_data.
+The AT_cifar and AT_high_res_data are the baseline AT for CIFAR10/100 and high-resolution image data (Caltech, CUB, Stanford-Dogs). The proposed method is in TWINS_cifar and TWINS_high_res_data. We use the pre-trained model in https://github.com/microsoft/robust-models-transfer.
 
 
 ### Citation
